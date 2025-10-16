@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GridSystem.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:/git/SecondEarth/Intermediate/Build/Win64/x64/SecondEarthEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"E:/git/SecondEarth/Plugins/GridSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/GridSystem/Module.GridSystem.cpp.obj"
+"E:/git/SecondEarth/Plugins/GridSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/GridSystem/GridSystem.cpp.obj"
+"E:/git/SecondEarth/Plugins/GridSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/GridSystem/Default.rc2.res"
+/OUT:"E:/git/SecondEarth/Plugins/GridSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/GridSystem/UnrealEditor-GridSystem.lib"

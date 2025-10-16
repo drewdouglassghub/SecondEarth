@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\git\\secondearth\\plugins\\gridsystem\\source\\gridsystem\\gridsystem.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\git\\secondearth\\intermediate\\build\\win64\\x64\\secondeartheditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\git\\secondearth\\plugins\\gridsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gridsystem\\definitions.gridsystem.h",
+            "e:\\git\\secondearth\\plugins\\gridsystem\\source\\gridsystem\\gridsystem.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
